@@ -9,12 +9,12 @@
       <p class=''>Los Angeles, CA</p>
     </div>
     <div class='mb-6 grid grid-cols-3 gap cols'>
-      <time class='col-span-1'>2021-</time>
+      <time class='col-span-1'>2021 -</time>
         <div class='col-span-2'>
         <span class='underline mr-4'><a rel="noreferrer" target="_blank" href='https://versussystems.com'>Versus Systems</a></span>
         <span class='text-slate-500'>Driving user engagement with advertisers</span>
       </div>
-      <time class='col-span-1'>2016-2021</time>
+      <time class='col-span-1'>2016 - 2021</time>
       <div class='col-span-2'>
         <span class='underline mr-4'><a rel="noreferrer" target="_blank" href='https://vody.com'>Vody</a></span>
         <span class='text-slate-500'>Collating streaming media metadata to support machine learning</span>

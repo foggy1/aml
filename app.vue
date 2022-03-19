@@ -2,6 +2,11 @@
   import 'tailwindcss/tailwind.css'
 </script>
 <template>
+  <Head>
+    <Title>Austin Lanari</Title>
+    <Meta name="description" content="Los Angeles" />
+    <Link rel="icon" type="image/png" href="/favicon.png" />
+  </Head>
   <main class='text-lg p-4 max-w-lg'>
     <div class='mb-6'>
       <h1 class=''>Austin Lanari</h1>
@@ -9,7 +14,7 @@
       <p class=''>Los Angeles, CA</p>
     </div>
     <div class='mb-6 grid grid-cols-3 gap cols'>
-      <time class='col-span-1'>2021 -</time>
+      <time class='col-span-1'>2021 - 2022</time>
         <div class='col-span-2'>
         <span class='underline mr-4'><a rel="noreferrer" target="_blank" href='https://versussystems.com'>Versus Systems</a></span>
         <span class='text-slate-500'>Driving user engagement with advertisers</span>

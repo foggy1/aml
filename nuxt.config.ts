@@ -6,6 +6,10 @@ export default defineNuxtConfig({
 	 'normalize.css/normalize.css',
 	 '@/assets/css/main.css'
 	],
+    title: 'my website title',
+    meta: [
+      {link: [{ rel: 'icon', type: 'image/png', href: '/favicon.png' }]}
+    ],        
     build: {
       postcss: {
         postcssOptions: {

@@ -6,6 +6,9 @@
     <Title>Austin Lanari</Title>
     <Meta name="description" content="Los Angeles" />
     <Link rel="icon" type="image/png" href="/favicon.png" />
+    <!-- Fathom - beautiful, simple website analytics -->
+    <Script src="https://cdn.usefathom.com/script.js" data-site="RUMVOGCC" defer />
+    <!-- / Fathom -->
   </Head>
   <main class='text-lg p-4 max-w-lg'>
     <div class='mb-6'>

@@ -17,6 +17,11 @@
       <p class=''>Los Angeles, CA</p>
     </div>
     <div class='mb-6 grid grid-cols-3 gap cols'>
+        <time class='col-span-1'>April 2022 - </time>
+        <div class='col-span-2'>
+            <span class='underline mr-4'>Senior Elixir Consultant (contract)</span>
+            <span class='text-slate-500'>Feature development for Fortune 500 company</span>
+        </div>
       <time class='col-span-1'>2021 - 2022</time>
         <div class='col-span-2'>
         <span class='underline mr-4'><a rel="noreferrer" target="_blank" href='https://versussystems.com'>Versus Systems</a></span>
@@ -31,7 +36,7 @@
     <div class='mb-6 space-y-4'>
       <p>Software engineer especially comfortable with devops, quality assurance, and distributed systems via Elixir/OTP.</p>
       <p>Published non-fiction in the Eisner-nominated <a class='underline' el="noreferrer" target="_blank" href='https://www.fantagraphics.com/products/the-comics-journal-304'>The Comics Journal #304</a>.</p>
-    </div>    
+    </div>
     <div class='underline'>
       <a rel="noreferrer" target="_blank" href='mailto:austin@foggy.llc'>austin@foggy.llc</a>
     </div>

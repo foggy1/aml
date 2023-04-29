@@ -17,7 +17,7 @@
       <p class=''>Los Angeles, CA</p>
     </div>
     <div class='mb-6 grid grid-cols-3 gap cols'>
-        <time class='col-span-1'>April 2022 - </time>
+        <time class='col-span-1'>2022 - 2023</time>
         <div class='col-span-2'>
             <span class='underline'><a rel="noreferrer" target="_blank" href='https://dockyard.com'>Dockyard</a></span><span class='mr-4'> (contract)</span>
             <span class='text-slate-500'>Senior Elixir Consultant on a Dockyard-led team for their Adobe contract</span>

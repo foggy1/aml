@@ -14,7 +14,7 @@
     <div class='mb-6'>
       <h1 class=''>Austin Lanari</h1>
       <p class=''>Programmer / Writer</p>
-      <p class=''>Los Angeles, CA</p>
+      <p class=''>New York, NY</p>
     </div>
     <div class='mb-6 grid grid-cols-3 gap cols'>
         <time class='col-span-1'>2022 - 2023</time>

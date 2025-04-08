@@ -4,11 +4,8 @@
 <template>
   <Head>
     <Title>Austin Lanari</Title>
-    <Meta name="description" content="Los Angeles" />
+    <Meta name="description" content="New York" />
     <Link rel="icon" type="image/png" href="/favicon.png" />
-    <!-- Fathom - beautiful, simple website analytics -->
-    <Script src="https://cdn.usefathom.com/script.js" data-site="RUMVOGCC" defer />
-    <!-- / Fathom -->
   </Head>
   <main class='text-lg p-4 max-w-lg'>
     <div class='mb-6'>
@@ -17,7 +14,12 @@
       <p class=''>New York, NY</p>
     </div>
     <div class='mb-6 grid grid-cols-3 gap cols'>
-        <time class='col-span-1'>2022 - 2023</time>
+      <time class='col-span-1'>2023 - present</time>
+        <div class='col-span-2'>
+            <span class='underline mr-4'><a rel="noreferrer" target="_blank" href='https://frame.io'>Frame.io</a></span>
+            <span class='text-slate-500'>Senior Software Engineer working at Adobe on Frame's backend</span>
+        </div>
+      <time class='col-span-1'>2022 - 2023</time>
         <div class='col-span-2'>
             <span class='underline'><a rel="noreferrer" target="_blank" href='https://dockyard.com'>Dockyard</a></span><span class='mr-4'> (contract)</span>
             <span class='text-slate-500'>Senior Elixir Consultant on a Dockyard-led team for their Adobe contract</span>
@@ -38,7 +40,7 @@
       <p>Published non-fiction in the Eisner-nominated <a class='underline' el="noreferrer" target="_blank" href='https://www.fantagraphics.com/products/the-comics-journal-304'>The Comics Journal #304</a>.</p>
     </div>
     <div class='underline'>
-      <a rel="noreferrer" target="_blank" href='mailto:austin@foggy.llc'>austin@foggy.llc</a>
+      <a rel="noreferrer" target="_blank" href='mailto:austin.lanari@pm.me'>austin.lanari@pm.me</a>
     </div>
   </main>
 </template>

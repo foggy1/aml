@@ -10,15 +10,11 @@ export default defineNuxtConfig({
     meta: [
       {link: [{ rel: 'icon', type: 'image/png', href: '/favicon.png' }]}
     ],        
-    build: {
       postcss: {
-        postcssOptions: {
           plugins: {
             tailwindcss: {},
             autoprefixer: {},
           }
         }
-      },
 
-  }	
 })

@@ -13,30 +13,8 @@
       <p class=''>Programmer / Writer</p>
       <p class=''>New York, NY</p>
     </div>
-    <div class='mb-6 grid grid-cols-3 gap cols'>
-      <time class='col-span-1'>2023 - present</time>
-        <div class='col-span-2'>
-            <span class='underline mr-4'><a rel="noreferrer" target="_blank" href='https://frame.io'>Frame.io</a></span>
-            <span class='text-slate-500'>Senior Software Engineer working at Adobe on Frame's backend</span>
-        </div>
-      <time class='col-span-1'>2022 - 2023</time>
-        <div class='col-span-2'>
-            <span class='underline'><a rel="noreferrer" target="_blank" href='https://dockyard.com'>Dockyard</a></span><span class='mr-4'> (contract)</span>
-            <span class='text-slate-500'>Senior Elixir Consultant on a Dockyard-led team for their Adobe contract</span>
-        </div>
-      <time class='col-span-1'>2021 - 2022</time>
-        <div class='col-span-2'>
-        <span class='underline mr-4'><a rel="noreferrer" target="_blank" href='https://versussystems.com'>Versus Systems</a></span>
-        <span class='text-slate-500'>Driving user engagement with advertisers</span>
-      </div>
-      <time class='col-span-1'>2016 - 2021</time>
-      <div class='col-span-2'>
-        <span class='underline mr-4'><a rel="noreferrer" target="_blank" href='https://vody.com'>Vody</a></span>
-        <span class='text-slate-500'>Collating streaming media metadata to support machine learning</span>
-      </div>
-    </div>
     <div class='mb-6 space-y-4'>
-      <p>Software engineer with large scale production experience of Elixir-powered backends, React-powered frontends, and more. Excited about making things that work for users and future developers.</p>
+      <p>I write code often and English sometimes.</p>
       <p>Published non-fiction in the Eisner-nominated <a class='underline' el="noreferrer" target="_blank" href='https://www.fantagraphics.com/products/the-comics-journal-304'>The Comics Journal #304</a>.</p>
     </div>
     <div class='underline'>

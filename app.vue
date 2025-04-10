@@ -18,6 +18,9 @@
       <p>Published non-fiction in the Eisner-nominated <a class='underline' el="noreferrer" target="_blank" href='https://www.fantagraphics.com/products/the-comics-journal-304'>The Comics Journal #304</a>.</p>
     </div>
     <div class='underline'>
+      <a rel="noreferrer" target="_blank" href='https://austinlanari.substack.com'>Substack</a>
+    </div>
+    <div class='underline'>
       <a rel="noreferrer" target="_blank" href='mailto:austin.lanari@pm.me'>austin.lanari@pm.me</a>
     </div>
   </main>
